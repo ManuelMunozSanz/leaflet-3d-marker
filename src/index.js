@@ -1,4 +1,5 @@
 import L from "leaflet";
+import "./styles.css";
 
 (function () {
   // save these original methods before they are overwritten

@@ -1,18 +1,23 @@
 {
   "name": "leaflet-3d-marker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Enables rotation 3D of marker icons in Leaflet.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": {
+    "name": "Manuel Muñoz Sanz",
+    "email": "manuelm_98@hotmail.es",
+    "url": "https://www.linkedin.com/in/manuel-munoz-sanz/"
+},
   "license": "ISC",
-  "dependencies": {
-  },
-
   "peerDependencies": {
     "leaflet": "1.9.4"
-  }
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ManuelMunozSanz/leaflet-3d-marker.git"}
 }

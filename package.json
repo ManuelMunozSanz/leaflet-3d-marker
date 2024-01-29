@@ -1,6 +1,6 @@
 {
   "name": "leaflet-3d-marker",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Enables rotation 3D of marker icons in Leaflet.",
   "main": "src/index.js",
   "types": "types/index.d.ts",

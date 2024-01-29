@@ -4,6 +4,10 @@
 
 ## Example
 
+| 3D markers 😎                                                                                                                                                            | Old plain markers 😢                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/ManuelMunozSanz/leaflet-rotated3d-marker/assets/49397733/0a323912-f022-4d8c-a74e-5e9449783bda" alt="3D markers" width="511" height="409" /> | <img src="https://github.com/ManuelMunozSanz/leaflet-rotated3d-marker/assets/49397733/6a14da76-1ee5-483d-8f6a-16d19ed8f9d3" alt="Old plain markers" width="511" height="409" /> |
+
 ## Installation
 
 Install with npm

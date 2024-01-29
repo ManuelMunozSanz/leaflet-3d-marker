@@ -1,13 +1,15 @@
 # Leaflet 3D Marker
 
 'leaflet-3d-marker' is an npm package designed to enhance your Leaflet maps within React by adding the capability to effortlessly integrate visually appealing 3D markers.
-This package is fully compatible with TypeScript
+This package is fully compatible with TypeScript.
 
 ## Example
 
 | 3D markers 😎                                                                                                                                                     | Old plain markers 😢                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <img src="https://github.com/ManuelMunozSanz/leaflet-3d-marker/assets/49397733/16acefb4-c3f1-4034-82df-e482f1bdde03" alt="3D markers" width="511" height="409" /> | <img src="https://github.com/ManuelMunozSanz/leaflet-3d-marker/assets/49397733/89af2e6c-66ee-4953-b7c2-7bf5d9229aca" alt="Old plain markers" width="511" height="409" /> |
+
+Check out the live demo of: [Interactive Leaflet Rotated Marker](https://vercel.com/manuel-munozs-projects/leaflet-rotated-marker). 
 
 ## Installation
 

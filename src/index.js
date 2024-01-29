@@ -48,17 +48,5 @@ import "./styles.css";
         ] += `rotate3d(${x}, ${y}, ${z}, ${angle}deg)`;
       }
     },
-
-    setRotationAngle: function (angle) {
-      this.options.rotationAngle = angle;
-      this.update();
-      return this;
-    },
-
-    setRotationOrigin: function (origin) {
-      this.options.rotationOrigin = origin;
-      this.update();
-      return this;
-    },
   });
 })();

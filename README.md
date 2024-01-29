@@ -6,7 +6,7 @@
 
 | 3D markers 😎                                                                                                                                                            | Old plain markers 😢                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/ManuelMunozSanz/leaflet-rotated3d-marker/assets/49397733/0a323912-f022-4d8c-a74e-5e9449783bda" alt="3D markers" width="511" height="409" /> | <img src="https://github.com/ManuelMunozSanz/leaflet-rotated3d-marker/assets/49397733/6a14da76-1ee5-483d-8f6a-16d19ed8f9d3" alt="Old plain markers" width="511" height="409" /> |
+| <img src="https://github.com/ManuelMunozSanz/leaflet-3d-marker/assets/49397733/16acefb4-c3f1-4034-82df-e482f1bdde03" alt="3D markers" width="511" height="409" /> | <img src="https://github.com/ManuelMunozSanz/leaflet-3d-marker/assets/49397733/89af2e6c-66ee-4953-b7c2-7bf5d9229aca" alt="Old plain markers" width="511" height="409" /> |
 
 ## Installation
 

@@ -7,7 +7,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["leaflet", "rotate", "perspective", "marker", "3d"],
+  "homepage": "https://leaflet-rotated-marker.vercel.app/",
+
   "author": {
     "name": "Manuel Muñoz Sanz",
     "email": "manuelm_98@hotmail.es",

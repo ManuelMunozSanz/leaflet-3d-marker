@@ -36,13 +36,13 @@ Adjust the **_perspective_** of the MapContainer component to add a 3D effect
 >
 ```
 
-Use the **_rotationAngle_** property to set the rotation angle for your Marker component
+Use the **_rotation3d_** property to set the rotation angle for your Marker component
 
 ```javascript
-<Marker position={position} icon={exampleIcon} rotationAngle={[1, 0, 0, 320]} />
+<Marker position={position} icon={exampleIcon} rotation3d={[1, 0, 0, 320]} />
 ```
 
-Feel free to adjust the perspective value and rotationAngle as needed to achieve the desired visual effect for your Leaflet map with 3D markers.
+Feel free to adjust the perspective value and rotation3d as needed to achieve the desired visual effect for your Leaflet map with 3D markers.
 
 ## Documentation
 

@@ -14,7 +14,7 @@ import "./styles.css";
     }
     this.options.rotationOrigin =
       this.options.rotationOrigin || iconAnchor || "center bottom";
-    this.options.rotationAngle = this.options.rotationAngle || 0;
+    this.options.rotation3d = this.options.rotation3d || 0;
 
     // Ensure marker keeps rotated during dragging
     this.on("drag", function (e) {
@@ -33,11 +33,11 @@ import "./styles.css";
     },
 
     _applyRotation: function () {
-      if (this.options.rotationAngle) {
+      if (this.options.rotation3d) {
         this._icon.style[L.DomUtil.TRANSFORM + "Origin"] =
           this.options.rotationOrigin;
 
-        let [x, y, z, angle] = this.options.rotationAngle;
+        let [x, y, z, angle] = this.options.rotation3d;
         let iconHeight = this._icon.offsetHeight;
 
         this._icon.style[L.DomUtil.TRANSFORM] += ` translatey(-${
